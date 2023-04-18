@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iamjd98/simple-react-calculator.git/static/css/main.3557ab29.css",
+    "main.js": "/iamjd98/simple-react-calculator.git/static/js/main.64f6bdc0.js",
+    "index.html": "/iamjd98/simple-react-calculator.git/index.html",
+    "main.3557ab29.css.map": "/iamjd98/simple-react-calculator.git/static/css/main.3557ab29.css.map",
+    "main.64f6bdc0.js.map": "/iamjd98/simple-react-calculator.git/static/js/main.64f6bdc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3557ab29.css",
+    "static/js/main.64f6bdc0.js"
+  ]
+}
